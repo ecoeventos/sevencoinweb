@@ -1,0 +1,2 @@
+# sevencoinweb
+Web Sevencoin
